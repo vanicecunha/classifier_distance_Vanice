@@ -1,0 +1,18 @@
+Abaixo o passo-a-passo dos requisitos pra execução:
+
+1 - Instalar Python 2.7 (se não me engano, já vem como default no Linux)
+2 - Instalar o pip (Tutorial: https://www.rosehosting.com/blog/how-to-install-pip-on-ubuntu-16-04/ somente até o passo 3, daí em diante ele só ensina a instalar um pacote)
+
+3 - sudo pip install numpy
+
+4 - sudo pip install scipy
+
+5 - sudo pip install csv
+
+
+Que eu me lembre são só essas bibliotecas, mas caso ele não execute por falta de alguma outra, é só seguir esse padrão:
+
+sudo pip install [nomeDaBibliotecaMostradoNoErro]
+
+
+
